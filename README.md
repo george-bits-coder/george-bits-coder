@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **my projects**
 
-- 🌱 Recent achievement **Got certified in responsive web design**
-
 - 📫 How to reach me **https://www.linkedin.com/in/george-abraham-968364200/**
 
 <h3 align="left">Connect with me:</h3>
