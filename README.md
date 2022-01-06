@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 💬 Ask me about **my projects**
-- 
+
 - 🌱 Recent achievement **Got certified in responsive web design**
 
 - 📫 How to reach me **https://www.linkedin.com/in/george-abraham-968364200/**
