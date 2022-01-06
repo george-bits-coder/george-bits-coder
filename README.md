@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George Abraham</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [Decision making simulator](https://github.com/george-bits-coder/Decision-making-simulator)
+- 🔭 I’m currently working on [Decision making simulator](https://github.com/george-bits-coder/Decision_Making_Simulator)
 
 - 🌱 I’m currently learning **MERN-STACK**
 
