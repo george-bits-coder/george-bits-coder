@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Abraham</h1>
-<h3 align="center">A passionate fullstack developer interested in building new projects. Graduate from Bits -pilani goa. currently pursuing full stack web-development program in Masai school. Hobbies include travelling, listening to music, playing chess etc</h3>
+<h3 align="center">A passionate fullstack developer interested in building new projects. Graduate from Bits -Pilani goa. Currently pursuing full stack web-development program in Masai school. Hobbies include travelling, listening to music, playing chess etc</h3>
 
 - 🔭 I’m currently working on [Decision making simulator](https://github.com/george-bits-coder/Decision_Making_Simulator)
 
