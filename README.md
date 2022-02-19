@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George Abraham</h1>
 <h3 align="center">Fullstack developer interested in building new projects. Graduate from Bits -Pilani goa. Currently pursuing full stack web-development program(MERN stack) in Masai school. Hobbies include travelling, listening to music, playing chess etc</h3>
 
-- 🔭 I’m currently working on [Decision making simulator](https://github.com/george-bits-coder/Decision_Making_Simulator)
+- 🔭 I’m currently working on [Random ted talks api](https://abcapi1.herokuapp.com/getone) [ api to generate a random ted talk link and title ]
 
 - 🌱 I’m currently learning **MERN-STACK**
 
