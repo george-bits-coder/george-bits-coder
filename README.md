@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">Full Stack Developer with 3+ years of experience building innovative web applications</h3>
 
-- 🔭 I'm currently working on AI-powered applications like [Chat with Delhi](https://chatwithdelhi.web.app/) - Conversational AI personifying the city
+- 🔭 Recent interesting project - Kat AI -- adding new dimension to AI chat - this ai bot responds in GIF's along with text https://t.me/kat_ai_bot
 - 🌱 I'm constantly exploring **AI integration** with web technologies
-- 👯 I'm looking to collaborate on **open source projects involving AI/ML**
 - 💬 Ask me about **AI chatbots, MERN stack, or my innovative projects**
 - 🎨 Check out my **[3D Interactive Resume](https://george-3d-resume.web.app/)**
 
