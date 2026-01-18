@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">Full Stack Developer with 3+ years of experience building innovative web applications</h3>
 
-- 🔭 Recent interesting project - Kat AI -- adding new dimension to AI chat - this ai bot responds in GIF's along with text https://t.me/kat_ai_bot
+- 🔭 Recent interesting project - AI Powered biographies 
 - 🌱 I'm constantly exploring **AI integration** with web technologies
 - 💬 Ask me about **AI chatbots, MERN stack, or my innovative projects**
-- 🎨 Check out my **[3D Interactive Resume](https://george-3d-resume.web.app/)**
+
 
 <h3 align="left">Featured Projects:</h3>
 <p align="left">
-  • <a href="https://chatwithdelhi.web.app/" target="_blank">Chat with Delhi</a> - AI that personifies the city<br>
-  • <a href="https://t.me/kat_ai_bot" target="_blank">KAT AI Bot</a> - Responds with text and relevant GIFs<br>
-  • <a href="https://t.me/Tatyana_language_bot" target="_blank">Tatyana Language Bot</a> - AI-powered language tutor<br>
-  • <a href="https://t.me/UltraImageAI_bot" target="_blank">UltraImageAI</a> - Custom image generation tool<br>
-  • <a href="https://financewithsharanaidemo.web.app/" target="_blank">Celebrity AI Clone</a> - Financial advice from AI celebrity
+  • <a href="https://morningdashboard.web.app/" target="_blank">Personal Morning Dashboard</a> - morning dashboard for tracking sleep<br>
+   • <a href="https://easypages.web.app/java/" target="_blank">Gamified learning</a> - Learn Java by playing games<br>
+      • <a href="https://traveltime.web.app/java/" target="_blank"> FullstackTravel App/a> -Travel App<br>
+
+
 </p>
 
 <h3 align="left">Technologies I Work With:</h3>
