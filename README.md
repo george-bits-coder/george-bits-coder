@@ -10,7 +10,7 @@
 <p align="left">
   • <a href="https://morningdashboard.web.app/" target="_blank">Personal Morning Dashboard</a> - morning dashboard for tracking sleep<br>
    • <a href="https://easypages.web.app/java/" target="_blank">Gamified learning</a> - Learn Java by playing games<br>
-      • <a href="https://traveltime.web.app/java/" target="_blank"> Fullstack Travel App </a> -Travel App<br>
+      • <a href="https://traveltime.web.app/" target="_blank"> Fullstack Travel App </a> -Travel App<br>
 
 
 
