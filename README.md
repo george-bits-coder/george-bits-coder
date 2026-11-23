@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George</h1>
-<h3 align="center">Full Stack Developer with 3+ years of experience building innovative web applications</h3>
+<h3 align="center">Full Stack Developer with 4.5+ years of experience building innovative web applications</h3>
 
 - 🔭 Recent interesting project - AI Powered biographies 
 - 🌱 I'm constantly exploring **AI integration** with web technologies
